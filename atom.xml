@@ -3,11 +3,11 @@
   <title>Hterminal</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://www.zcxbb.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://www.zcxbb.com/"/>
   <updated>2024-02-19T10:25:13.703Z</updated>
-  <id>http://example.com/</id>
+  <id>https://www.zcxbb.com/</id>
   
   <author>
     <name>chunxi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/02/19/hello-world/"/>
-    <id>http://example.com/2024/02/19/hello-world/</id>
+    <link href="https://www.zcxbb.com/2024/02/19/hello-world/"/>
+    <id>https://www.zcxbb.com/2024/02/19/hello-world/</id>
     <published>2024-02-19T10:25:13.703Z</published>
     <updated>2024-02-19T10:25:13.703Z</updated>
     
