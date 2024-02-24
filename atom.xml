@@ -6,7 +6,7 @@
   <link href="https://www.zcxbb.com/atom.xml" rel="self"/>
   
   <link href="https://www.zcxbb.com/"/>
-  <updated>2024-02-19T10:25:13.703Z</updated>
+  <updated>2024-02-24T15:05:16.819Z</updated>
   <id>https://www.zcxbb.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test my post</title>
+    <link href="https://www.zcxbb.com/2024/02/24/test-my-post/"/>
+    <id>https://www.zcxbb.com/2024/02/24/test-my-post/</id>
+    <published>2024-02-24T15:05:16.000Z</published>
+    <updated>2024-02-24T15:05:16.819Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
